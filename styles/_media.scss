@@ -90,6 +90,11 @@
         padding-bottom: 6rem;
     }
 
+    .work{
+        grid-template-columns: repeat(1, 1fr);
+        padding-bottom: 6rem;
+    }
+
     .contact-content-con{
         flex-direction: column;
         .right-contact{
@@ -265,6 +270,9 @@
     }
 
     .timeline{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .work{
         grid-template-columns: repeat(1, 1fr);
     }
     .main-title{
