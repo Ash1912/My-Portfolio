@@ -323,12 +323,12 @@
   .about-stats .progress-bars .progress-bar .progress-con .progress .reactbootstrap {
     width: 87%;
   }
-  .about-stats .progress-bars .progress-bar .progress-con .progress .androidstudio {
+  /* .about-stats .progress-bars .progress-bar .progress-con .progress .androidstudio {
     width: 50%;
-  }
-  .about-stats .progress-bars .progress-bar .progress-con .progress .flutter {
+  } */
+  /* .about-stats .progress-bars .progress-bar .progress-con .progress .flutter {
     width: 50%;
-  }
+  } */
   .about-stats .progress-bars .progress-bar .progress-con .progress .python {
     width: 70%;
   }
