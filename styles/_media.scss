@@ -88,6 +88,7 @@
     .blogs{
         grid-template-columns: repeat(1, 1fr);
         padding-bottom: 6rem;
+        margin-top: 1rem;
     }
 
     .work{
@@ -185,7 +186,7 @@
 @media screen and (max-width:1250px){
     .blogs{
         grid-template-columns: repeat(2, 1fr);
-        margin-top: 6rem;
+        //margin-top: 6rem;
     }
     .portfolios{
         grid-template-columns: repeat(2, 1fr);
