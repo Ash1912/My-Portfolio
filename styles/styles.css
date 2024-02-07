@@ -238,7 +238,7 @@ section {
   font-size: 38px;
   white-space: nowrap;
   overflow: hidden;
-  animation: typing 2s steps(10) forwards, blink-caret 0.75s infinite;
+  animation: typing 2s steps(10) forwards, blink-caret 0.50s infinite;
 }
 .header-content .right-header p {
   margin: 0.25rem 0;
